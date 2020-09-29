@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Events</title>
+  <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.css" />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1 class="brand"><img src="tapple-logo.png" alt="logo" class="card-logo"></h1>
+    <div class="wrapper">
+      <div class="contact">
+        <div class="alert">Your message has been sent</div>
+        <form id="contactForm">
+          <p>
+            <label>Host Name</label>
+            <input type="text" name="name" id="name" placeholder="What is your IGN?" required>
+          </p>
+          <p>
+            <label>Event Title</label>
+            <input type="text" name="eventTitle" id="eventTitle" placeholder="Title for the Event?" required>
+          </p>
+          <p>
+            <label>Starting Date UTC</label>
+            <input type="date" name="date" id="date" placeholder="Format: Year-Month-Day" required>
+          </p>
+          <p>
+            <label>Starting Time UTC</label>
+            <input type="time" name="time" id="time" placeholder="HH:MM">
+          </p>
+          <p>
+            <label>Player Fill</label>
+            <input type="number" name="playerFill" id="playerFill" placeholder="Amount of players?" required>
+          </p>
+          <p>
+            <label>Experimental Index</label>
+            <input type="number" name="experimentalIndex" id="experimentalIndex" placeholder="Testing value?" required>
+          </p>
+          <p>
+            <label>Game Type</label>
+            <input type="text" name="gameType" id="gameType" placeholder="Teams/FFA/RvBvGvY/etc.?">
+          </p>
+          <p>
+            <label>Team Size</label>
+            <input type="text" name="teamSize" id="teamSize" placeholder="If it's a team game, fill this out. For example: Chosen To4">
+          </p>
+          <p>
+            <label>Gamemode</label>
+            <select id = "gamemode">
+              <option value = "UHC">UHC</option>
+              <option value = "Tournament">Tournament</option>
+              <option value = "Meetup">Meetup</option>
+            </select>
+          </p>
+              <div id="task_input_container">
+                <div class="form-group">
+                  <input id="input_box" class="search form-control" type="text" placeholder="Start A Task"/>
+                  <button type="button" id="input_button" onclick="add_task();" style="height: 60px;">
+                    Enter Task <i class="fa fa-arrow-circle-right"></i>
+                  </button>
+                </div>
+              </div>
+          
+              <!-- Task To Do -->
+              <div id="scenarios"><p style="text-align: center;">Scenario List will appear here!</p><div id="match-list"></div></div>
+              <div class="container-tasks">
+                <p id="task_description"></p>
+              </div>
+          <p class="full">
+            <label>Message</label>
+            <textarea name="message" rows="5" id="message"></textarea>
+          </p>
+          <p class="full">
+            <button type="submit" onclick="onSubmit()">Submit</button>
+          </p>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div id ="app"></div>
+
+   <!-- The core Firebase JS SDK is always required and must be listed first -->
+  <script src="https://www.gstatic.com/firebasejs/7.15.5/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.15.5/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.15.5/firebase-database.js"></script>
+
+  <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+  <script src="https://www.gstatic.com/firebasejs/7.15.5/firebase-analytics.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react/16.4.2/umd/react.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.4.2/umd/react-dom.production.min.js"></script>
+  <script src="main.js"></script>
+
+</body>
+</html>

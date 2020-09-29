@@ -1,0 +1,658 @@
+[
+    {
+      "name": "Anvil Link",
+      "description": "The player with the least amount of anvils dies every minute. There is a 5 minute grace period."
+    },
+    {
+      "name": "The Sky Is Anvils",
+      "description": "Anvils fall from the sky."
+    },
+    {
+      "name": "Squad Health",
+      "description": "You share health with your team. Healing and damage will apply to all team members. If one player dies, the team dies."
+    },
+    {
+      "name": "Unstackable Blocks",
+      "description": "You can\u0027t stack blocks."
+    },
+    {
+      "name": "Inventory Swap",
+      "description": "Everyone swaps their inventory, armor and XP when PvP is enabled."
+    },
+    {
+      "name": "The Sky Is Gravel",
+      "description": "Anvils falls from the sky."
+    },
+    {
+      "name": "Haste Expedition",
+      "description": "Every 5 minutes, you gain another level of Haste."
+    },
+    {
+      "name": "Agar.io",
+      "description": "The lower your health is, the faster you run."
+    },
+    {
+      "name": "Angry Animals",
+      "description": "Animals are hostile and deal 2 hearts of damage."
+    },
+    {
+      "name": "Angry Chicken",
+      "description": "Chickens are hostile and deal 2 hearts of damage."
+    },
+    {
+      "name": "Anonymous",
+      "description": "Your names and skins are hidden from other players."
+    },
+    {
+      "name": "Apple Link",
+      "description": "The player with the least amount of apples dies every minute."
+    },
+    {
+      "name": "Diamond Link",
+      "description": "The player with the fewest diamonds in their inventory dies every minute."
+    },
+    {
+      "name": "Backpacks",
+      "description": "You have an extra inventory (/bp)."
+    },
+    {
+      "name": "Barebones",
+      "description": "The Nether is disabled All ores except iron/coal drop an iron ingot When a player dies, they drop 1 diamond 1 golden apple, 32 arrows, and 2 string. You are not able to craft enchantment tables, anvils or golden apples."
+    },
+    {
+      "name": "Barrage",
+      "description": "When using a bow, a barrage of arrows will be shot."
+    },
+    {
+      "name": "Bats",
+      "description": "Killing a bat has a 95% chance of droppping a golden apple, And a 5% chance of instantly killing you."
+    },
+    {
+      "name": "Battle Siren",
+      "description": "Whenever a player starts fighting another player the coordinates of the fight will be shown in chat."
+    },
+    {
+      "name": "BedBomb",
+      "description": "Beds explode in every world, including the overworld and the End."
+    },
+    {
+      "name": "Bench Blitz",
+      "description": "You can only craft one crafting table."
+    },
+    {
+      "name": "BestPvE",
+      "description": "Everyone starts on a list called bestpve list, if you take damage you are removed from the list. The only way to get back on the list is getting a kill, All players on the bestpve list gets 1 extra heart each 10 minutes."
+    },
+    {
+      "name": "Beta Zombies",
+      "description": "Zombies drop feathers instead of rotten flesh."
+    },
+    {
+      "name": "Better NoClean",
+      "description": "Whenever a player dies, the player with the most damage dealth in the last 30 seconds gets the kill. The killer then then receives 15 seconds of No-Clean and 15 seconds of loot protection."
+    },
+    {
+      "name": "Bleeding Sweets",
+      "description": "Players drop 16 arrows, 1 string, 5 gold, and 1 diamond on death."
+    },
+    {
+      "name": "Blood Diamonds",
+      "description": "Every time you mine a diamond ore you lose half a heart."
+    },
+    {
+      "name": "Blood Enchants",
+      "description": "Every time you enchant an item you lose half a heart."
+    },
+    {
+      "name": "Border Link",
+      "description": "A player that\u0027s furthest from 0,0 will die every minute."
+    },
+    {
+      "name": "#Bow",
+      "description": "The only way to damage another player is with a bow."
+    },
+    {
+      "name": "Bow Fighters",
+      "description": "Everybody will start off with an infinity book an arrow and two string. Your most powerful weapon can be a stone axe or wooden sword."
+    },
+    {
+      "name": "Big Crack",
+      "description": "A big crack is created down the middle of the map (50 blocks wide)."
+    },
+    {
+      "name": "Biome Paranoia",
+      "description": "The color of your name in tab represents the biome you\u0027re in. To check the biomes, use /bl."
+    },
+    {
+      "name": "Birds",
+      "description": "Every player has the ability to fly."
+    },
+    {
+      "name": "Bowless",
+      "description": "Bows cannot be crafted or used."
+    },
+    {
+      "name": "Bread Link",
+      "description": "the player with the least amount of bread In their inventory dies each minute."
+    },
+    {
+      "name": "Brimming Link",
+      "description": "the player with the most items In their inventory dies each minute."
+    },
+    {
+      "name": "Buffing Randomizer",
+      "description": "Every minute, a random item in your inventory gets enchanted."
+    },
+    {
+      "name": "Buildless",
+      "description": "You cannot place anything except crafting tables."
+    },
+    {
+      "name": "Center Link",
+      "description": "The player that is closest to the middle of the map dies every minute."
+    },
+    {
+      "name": "Chump Charity",
+      "description": "Every minute, the player on the lowest health is healed."
+    },
+    {
+      "name": "Compensation",
+      "description": "When a player on a team dies, the player\u0027s max health is divided up and added to the max health of the player\u0027s teammates. The extra health received will regenerate in 30 seconds."
+    },
+    {
+      "name": "Constant Dropper",
+      "description": "Every 5 minutes, you are teleported 100 blocks above the surface."
+    },
+    {
+      "name": "Cupid",
+      "description": "Shooting a player with a bow heals you by 1%."
+    },
+    {
+      "name": "CutClean",
+      "description": "All food and ores drop smelted."
+    },
+    {
+      "name": "Damage Pocket",
+      "description": "Every time you take damage, You lose a slot in your inventory."
+    },
+    {
+      "name": "Deadly Sun",
+      "description": "The sun deals damage to you if you are exposed to it during the day."
+    },
+    {
+      "name": "Deadly Water",
+      "description": "Touching water instantly kills you."
+    },
+    {
+      "name": "Death Acceleration",
+      "description": "Your max hearts is dependent on how many players are in the game. Every time a player dies, everyone permanently loses a heart."
+    },
+    {
+      "name": "Depths",
+      "description": "The lower you go, the more mobs damage you."
+    },
+    {
+      "name": "Diamondless",
+      "description": "You cannot mine diamonds. Players drop 1 diamond when they die."
+    },
+    {
+      "name": "Disintegrating Miner",
+      "description": "Every time you mine a block, you lose 1% health."
+    },
+    {
+      "name": "Dolphins",
+      "description": "Whenever a player is in water, They will propel forwards and \u0027Dolphin dive\u0027 when sneaking."
+    },
+    {
+      "name": "Donators vs. Nons",
+      "description": "Donators and non-donators are set on two teams to fight each other."
+    },
+    {
+      "name": "DoNotDisturb",
+      "description": "Once you hit a player your fight cannot be interfered with Your tag lasts 30 seconds whenever you hit the player."
+    },
+    {
+      "name": "Double Health",
+      "description": "Everyone has two rows of hearts."
+    },
+    {
+      "name": "Double Jump",
+      "description": "You can jump a second time while in the air. Fall damage is disabled."
+    },
+    {
+      "name": "Efficiency Up",
+      "description": "Every 100 blocks you break, your efficiency and unbreaking on all tools increases by one level."
+    },
+    {
+      "name": "Eggs",
+      "description": "Throwing an egg spawns a random mob. Chickens have a 5% chance of dropping an egg."
+    },
+    {
+      "name": "Enchanted Death",
+      "description": "Players drop an enchantment table if they are killed by another player. Enchantment tables cannot be crafted."
+    },
+    {
+      "name": "Enchanting Center",
+      "description": "There is a single enchantment table at 0,0. You cannot place a block within 10 blocks of the enchantment table or craft them."
+    },
+    {
+      "name": "Ender Dragon Rush",
+      "description": "The first player/team to kill the Ender Dragon wins! There is an ender portal at 0,0 that needs 3 eyes of enders to open."
+    },
+    {
+      "name": "Extreme Skyhigh",
+      "description": "Every 30 seconds, if you are not above y:175, You will take 2 hearts of damage."
+    },
+    {
+      "name": "Fast Getaway",
+      "description": "Killing a player gives you speed 2 for 30 seconds."
+    },
+    {
+      "name": "Fast Smelting",
+      "description": "Furnaces smelt at a faster rate."
+    },
+    {
+      "name": "Fireless",
+      "description": "You cannot take damage from fire."
+    },
+    {
+      "name": "Fish Link",
+      "description": "The player with the least amount of fish (fish, salmon, pufferfish, clownfish, etc.) dies every minute."
+    },
+    {
+      "name": "Flower Power",
+      "description": "Breaking a flower gives you a random amount of a random item in the game."
+    },
+    {
+      "name": "Fortune Up",
+      "description": "Every 100 blocks you break, your fortune and unbreaking on all tools increases by one level."
+    },
+    {
+      "name": "Gapple Roulette",
+      "description": "Whenever you eat a golden apple, you will get an additional random potion effect for  a small amount of time. The effect can be negative or positive."
+    },
+    {
+      "name": "Gap Zap",
+      "description": "If you take damage while regenerating From a golden apple or golden head, The regeneration cancels."
+    },
+    {
+      "name": "Giga Drill",
+      "description": "All tools are enchanted with efficiency X and unbreaking X."
+    },
+    {
+      "name": "Golden Retriever",
+      "description": "When a player dies, they drop a golden head."
+    },
+    {
+      "name": "Goldless",
+      "description": "You cannot mine gold. Players drop 4 gold when they die."
+    },
+    {
+      "name": "Gold Rush",
+      "description": "You cannot craft any leather armor or iron armor. You can only craft either gold or diamond armor."
+    },
+    {
+      "name": "Grace Periodless",
+      "description": "PvP enables at the start of the game."
+    },
+    {
+      "name": "Grave Robbers",
+      "description": "When a player dies, their loot is put into a grave."
+    },
+    {
+      "name": "Gone Fishing",
+      "description": "Players are given an OP fishing rod, 64 anvils, and 20k XP levels. Enchantment tables cannot be crafted."
+    },
+    {
+      "name": "Hastey Babies",
+      "description": "All tools are enchanted with efficiency I and unbreaking I."
+    },
+    {
+      "name": "HasteyBoys",
+      "description": "All tools are enchanted with efficiency III and unbreaking I."
+    },
+    {
+      "name": "Health Acceleration",
+      "description": "Everyone starts with one heart. Every time a player dies, Everyone permanently gains a heart."
+    },
+    {
+      "name": "Highground Link",
+      "description": "The player at the highest Y-level dies every minute."
+    },
+    {
+      "name": "Hostile Link",
+      "description": "The player with the highest amount of kills dies every minute."
+    },
+    {
+      "name": "Hot Potato",
+      "description": "When PvP is enabled, a random player will be given the hot potato. The player with the hot potato gets Speed II, and can hit another player to give it away. After 60 seconds, if the player with the hot potato is still alive they are instantly killed, and the cycle starts over again."
+    },
+    {
+      "name": "Butcher Link",
+      "description": "The player with the least amount of mob kills dies every minute."
+    },
+    {
+      "name": "Infinite Allies",
+      "description": "You can team with as many players as you’d like, however in the end, only one player may win."
+    },
+    {
+      "name": "Infinite Enchanter",
+      "description": "You are given 64 enchantment tables, 64 anvils, and 20k XP levels."
+    },
+    {
+      "name": "iPvP",
+      "description": "PvP is off all game. The only way to damage opponents is indirectly; Things like lava, flint and steel, cacti are allowed."
+    },
+    {
+      "name": "Item Scrambler",
+      "description": "Your inventory is randomized every 5 minutes."
+    },
+    {
+      "name": "Jump Expedition",
+      "description": "Everyone gets Jump Boost and the level increases every 5 minutes."
+    },
+    {
+      "name": "Kings",
+      "description": "Upon a team, 1 person will be King, the King will have: Strength, Resistance, Haste, and 20 hearts. If the king dies, the remaining teammates will receive: Weakness for 3 mins and Poison for 15 seconds."
+    },
+    {
+      "name": "Limitations",
+      "description": "You can only mine 64 iron, 32 gold, and 16 diamonds. /mylimitations to check how many ores you\u0027ve mined."
+    },
+    {
+      "name": "Lootcrates",
+      "description": "Every 5 minutes, players are given a lootcrate with goodies inside."
+    },
+    {
+      "name": "LuckyLeaves",
+      "description": "There is a 1% chance that a golden apple will drop from leaves."
+    },
+    {
+      "name": "Melee Fun",
+      "description": "When you hit someone there is no hit delay (aka Combo)."
+    },
+    {
+      "name": "Midas",
+      "description": "The amount of hits you get on someone in a fight (melee or bow) is how much gold you get from killing them after the fight."
+    },
+    {
+      "name": "Moles",
+      "description": "One person on each team is chosen to be the Mole. The Moles are one team and can communicate with each other trying to take out the other players. The normal players try to find out who the mole is on their team and kill them."
+    },
+    {
+      "name": "Mystery Scenario",
+      "description": "Who knows?"
+    },
+    {
+      "name": "Nine Slots",
+      "description": "You only have access to your hotbar."
+    },
+    {
+      "name": "Naked and Afraid",
+      "description": "You cannot wear or obtain armor."
+    },
+    {
+      "name": "Nicholas Cage",
+      "description": "When a player dies, a sphere of TNT surrounds their death spot."
+    },
+    {
+      "name": "Nightmare Mode",
+      "description": "Creepers, Skeletons, Zombies, Spiders, Endermen, and Witches are modified to be much stronger."
+    },
+    {
+      "name": "NoFall",
+      "description": "You cannot take fall damage."
+    },
+    {
+      "name": "No Loot Swoop",
+      "description": "When a player dies, their loot is only obtainable by the killer for 15 seconds."
+    },
+    {
+      "name": "NoClean",
+      "description": "You receive 20 seconds of invincibility when killing a player. Hitting anyone during that time will remove your invincibility."
+    },
+    {
+      "name": "No Sneak",
+      "description": "You cannot sneak."
+    },
+    {
+      "name": "Obsidian Link",
+      "description": "The player with the least amount of obsidian dies every minute."
+    },
+    {
+      "name": "Lumberjack",
+      "description": "You cannot craft swords."
+    },
+    {
+      "name": "Crafting Center",
+      "description": "There is a single crafting table at 0,0. You cannot place a block within 10 blocks of the crafting table or craft them."
+    },
+    {
+      "name": "One Heal",
+      "description": "You are given a golden hoe called \"One Heal\" and right clicking it heals you to full health."
+    },
+    {
+      "name": "Fragile Tools",
+      "description": "Every tool has 1 durability."
+    },
+    {
+      "name": "OP Recoil",
+      "description": "Every time you shoot an arrow you get pushed back. Players may shoot themselves backwards to boost Themselves faster than running speed. (Recoil but 10x stronger)"
+    },
+    {
+      "name": "Ops vs The World",
+      "description": "Staff vs. the players."
+    },
+    {
+      "name": "Paranoia",
+      "description": "Doing certain things broadcasts your coordinates in chat. /paranoiainfo for a list of what does."
+    },
+    {
+      "name": "Passive Link",
+      "description": "The player with the least amount of kills dies every minute."
+    },
+    {
+      "name": "Period of Resistance",
+      "description": "Every 10 minutes, a new type of damage Will be selected that you are immune to."
+    },
+    {
+      "name": "Pink Horse",
+      "description": "Every player is stuck on a pig the whole game. Pigs are invincible and players are not able to dismount."
+    },
+    {
+      "name": "Pocket Janitor",
+      "description": "Your inventory is cleared every minute."
+    },
+    {
+      "name": "Popcorn",
+      "description": "You are nudged in a random direction every second. Fall damage is disabled."
+    },
+    {
+      "name": "Portal Gun",
+      "description": "Every player gets a Portal Gun. Shoot blue and orange portals and quickly teleport from place to place.  Left-click to change portal type. Right click to shoot a portal. Crouch and right click to remove a portal."
+    },
+    {
+      "name": "Potion Swap",
+      "description": "Every 5 minutes you receive a different potion effect. - Speed I - Strength I - Haste I - Jump Boost I - Invisibility I - Resistance I - Fire Resistance I."
+    },
+    {
+      "name": "Prickly Combat",
+      "description": "All armor pieces are enchanted with Thorns 10."
+    },
+    {
+      "name": "Progressive Speed",
+      "description": "You start with speed 1, and each kill you get gives you 1 more level of speed."
+    },
+    {
+      "name": "Progressive Hearts",
+      "description": "For every kill you get, you get an extra empty heart."
+    },
+    {
+      "name": "PvP Toggle",
+      "description": "PvP toggles every minute."
+    },
+    {
+      "name": "Rag Dolls",
+      "description": "All player start out with a knockback 2 and punch 2 book."
+    },
+    {
+      "name": "Raining TNT",
+      "description": "TNT spawns within a 5 block radius of a player every second."
+    },
+    {
+      "name": "Recoil",
+      "description": "Every time you shoot an arrow you get pushed back. Players may shoot themselves backwards to boost Themselves faster than running speed."
+    },
+    {
+      "name": "Red Arrows",
+      "description": "When a player dies, a red arrow spawns above the surface To show where the death was."
+    },
+    {
+      "name": "Ring of Fire",
+      "description": "When a player dies, a ring of fire surrounds their death spot."
+    },
+    {
+      "name": "Rodless",
+      "description": "Rods cannot be crafted or used."
+    },
+    {
+      "name": "Sandbags",
+      "description": "Shooting a block breaks it."
+    },
+    {
+      "name": "Scatter Swap",
+      "description": "Players swap places every 5 minutes."
+    },
+    {
+      "name": "Select Fire",
+      "description": "When you left click holding a bow, It cycles the mode to what the bow shoots. It can shoot creepers, TNT, flame arrows, or fireballs Chickens do not drop feathers Coal ore drops arrows with a 10% chance"
+    },
+    {
+      "name": "Self Destruct",
+      "description": "When a player dies, they instantly blow up."
+    },
+    {
+      "name": "Siphon",
+      "description": "Whenever you get a kill, you will regenerate 2 hearts, gain 2 levels, and get a random tier 1 enchanted book."
+    },
+    {
+      "name": "Skydivers",
+      "description": "Every time you take damage You get teleported extremely high in the air.  Make sure to have a water bucket in hand!"
+    },
+    {
+      "name": "SkyHigh",
+      "description": "Every 30 seconds, if you are not above y:101, you take half a heart of damage."
+    },
+    {
+      "name": "The Sky Is Lava",
+      "description": "Lava falls from the sky."
+    },
+    {
+      "name": "Auction",
+      "description": "8 slave owners are chosen and they get 30 diamonds to bid on players as they choose. Any spare diamonds and given back to the owner in the actual game."
+    },
+    {
+      "name": "Slimy Crack",
+      "description": "A big crack is created down the middle of the map (50 blocks wide). There is a layer of slime blocks at the bottom."
+    },
+    {
+      "name": "Snowball Fight",
+      "description": "The only way to damage other players is by hitting them With snowballs. Snowballs deal half a heart of damage."
+    },
+    {
+      "name": "Speedy Miners",
+      "description": "All players under y:32 receive speed 1."
+    },
+    {
+      "name": "Spells",
+      "description": "Spells"
+    },
+    {
+      "name": "Spicy Butterfingers",
+      "description": "You drop your items every time you take damage."
+    },
+    {
+      "name": "Strongest Link",
+      "description": "The player with the highest health dies every minute."
+    },
+    {
+      "name": "Sugar Rush",
+      "description": "When the game starts you get 10 sugar named \"Sugar Rush\" and everytime you eat one you get 20 seconds of speed 5."
+    },
+    {
+      "name": "Superheroes",
+      "description": "Everybody on a team will receive a superpower That will last for the entire game A player can receive 1 of the following:  Strength, Speed, Resistance, Double Health, Invisibility, or Jump Boost. Fall damage is off in this gamemode. For Health power: Gaps heal 3 hearts and Golden Heads heal 6 hearts. Does not apply to potions! (If teams of 5, Jump will be available, If teams of 6 or higher, Invisibility is available, unless the player is solo without a team.)"
+    },
+    {
+      "name": "Super Smash Bros!",
+      "description": "Each player on a team will receive a different class, All classes are chosen at random. The characters are Mario, Sonic, Kirby, Pit, Meta Knight, Donkey Kong, Pikachu, and Link. All the characters have different abilities."
+    },
+    {
+      "name": "Switcheroo",
+      "description": "Shooting another player with an arrow switches your places."
+    },
+    {
+      "name": "TakeFive",
+      "description": "Every time you kill someone you get to see their inventory and can take 5 (stacks) of items before it disappears."
+    },
+    {
+      "name": "Team Inventory",
+      "description": "Every team shares an extra inventory (/ti)."
+    },
+    {
+      "name": "World of Thieves",
+      "description": "You have a 50% chance to disarm the player you hit with your fist"
+    },
+    {
+      "name": "Timber",
+      "description": "When you cut one part of a tree it cuts it all."
+    },
+    {
+      "name": "Timebomb",
+      "description": "When a player dies, their loot is put into a chest The chest then blows up after 30 seconds."
+    },
+    {
+      "name": "Training Rabbits",
+      "description": "You start with jump boost 2, and each kill you get gives you 1 more level of jump boost. Fall damage is disabled."
+    },
+    {
+      "name": "Triple Packed Ores",
+      "description": "All ores drop 3 blocks of it\u0027s self. EXP Bottles are dropped Cows, chickens, pigs, skeletons, creepers and spiders drop 3x their loot. Sugar cane drops 3 bookshelves Leaves drop 3 apples."
+    },
+    {
+      "name": "Underground Link",
+      "description": "The player at the lowest Y-level dies every minute."
+    },
+    {
+      "name": "Vegan Paranoia",
+      "description": "10 minutes after the game starts, any meat-dropping animal killed will have a 40% chance of messaging 1 alive person in the server the coordinates of the killed animal."
+    },
+    {
+      "name": "VeinMiner",
+      "description": "When you mine an ore while shifting, The entire vein is instantly mined."
+    },
+    {
+      "name": "Villager Madness",
+      "description": "All players start the game with 64 emerald blocks and 64 villager eggs."
+    },
+    {
+      "name": "Voidscape",
+      "description": "All stone and bedrock is replaced with air."
+    },
+    {
+      "name": "Weakest Link",
+      "description": "The player with the lowest health dies every 5 minutes."
+    },
+    {
+      "name": "Webcage",
+      "description": "When a player dies, a sphere of cobwebs surrounds their death spot."
+    },
+    {
+      "name": "XP Link",
+      "description": "The player with the least amount of XP dies every minute."
+    },
+    {
+      "name": "Zoomania",
+      "description": "Every minute, a random mob will be spawned on each player."
+    }
+  ]
